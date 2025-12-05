@@ -1,0 +1,16 @@
+{
+  "name": "truebrewbirdie-marketplace",
+  "description": "Marketing and copywriting skills by True Brew Birdie Ltd.",
+  "owner": {
+    "name": "True Brew Birdie Ltd.",
+    "email": "hello@truebrewbirdie.com",
+    "url": "https://truebrewbirdie.com"
+  },
+  "plugins": [
+    {
+      "name": "copythinking-skills",
+      "source": "./copythinking-skills",
+      "description": "Expert copywriting and marketing skills"
+    }
+  ]
+}
