@@ -18,10 +18,5 @@
     "typography",
     "components"
   ],
-  "skills": [
-    {
-      "name": "truebrewbirdie-design",
-      "path": "skills/truebrewbirdie-design"
-    }
-  ]
+  "license": "MIT"
 }

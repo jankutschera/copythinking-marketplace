@@ -7,38 +7,5 @@
     "url": "https://truebrewbirdie.com"
   },
   "keywords": ["amazon", "kdp", "seo", "kindle", "book-marketing", "self-publishing"],
-  "skills": [
-    {
-      "name": "truebrewbirdie-kdp",
-      "path": "skills/truebrewbirdie-kdp"
-    }
-  ],
-  "agents": [
-    {
-      "name": "listing-analyzer",
-      "path": "agents/listing-analyzer.md"
-    },
-    {
-      "name": "keyword-researcher",
-      "path": "agents/keyword-researcher.md"
-    },
-    {
-      "name": "listing-optimizer",
-      "path": "agents/listing-optimizer.md"
-    }
-  ],
-  "commands": [
-    {
-      "name": "analyze-listing",
-      "path": "commands/analyze-listing.md"
-    },
-    {
-      "name": "find-keywords",
-      "path": "commands/find-keywords.md"
-    },
-    {
-      "name": "optimize-listing",
-      "path": "commands/optimize-listing.md"
-    }
-  ]
+  "license": "MIT"
 }
