@@ -1,5 +1,5 @@
 ---
-name: amazon-kdp-knowledge
+name: truebrewbirdie-kdp
 description: |
   Umfassendes Wissen über Amazon KDP SEO und Buch-Listing-Optimierung.
   Verwende diesen Skill wenn der User nach Amazon SEO, KDP Keywords,
