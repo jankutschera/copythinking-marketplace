@@ -11,6 +11,11 @@
       "name": "copythinking-skills",
       "source": "./copythinking-skills",
       "description": "Expert copywriting and marketing skills"
+    },
+    {
+      "name": "amazon-kdp-seo",
+      "source": "./amazon-kdp-seo",
+      "description": "Amazon KDP SEO Toolkit - Analysiere und optimiere Buch-Listings"
     }
   ]
 }

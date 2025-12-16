@@ -1,0 +1,44 @@
+{
+  "name": "amazon-kdp-seo",
+  "version": "1.0.0",
+  "description": "Amazon KDP SEO Toolkit - Analysiere, recherchiere und optimiere deine Buch-Listings für maximale Sichtbarkeit",
+  "author": {
+    "name": "True Brew Birdie Ltd.",
+    "url": "https://truebrewbirdie.com"
+  },
+  "keywords": ["amazon", "kdp", "seo", "kindle", "book-marketing", "self-publishing"],
+  "skills": [
+    {
+      "name": "amazon-kdp-knowledge",
+      "path": "skills/amazon-kdp-knowledge"
+    }
+  ],
+  "agents": [
+    {
+      "name": "listing-analyzer",
+      "path": "agents/listing-analyzer.md"
+    },
+    {
+      "name": "keyword-researcher",
+      "path": "agents/keyword-researcher.md"
+    },
+    {
+      "name": "listing-optimizer",
+      "path": "agents/listing-optimizer.md"
+    }
+  ],
+  "commands": [
+    {
+      "name": "analyze-listing",
+      "path": "commands/analyze-listing.md"
+    },
+    {
+      "name": "find-keywords",
+      "path": "commands/find-keywords.md"
+    },
+    {
+      "name": "optimize-listing",
+      "path": "commands/optimize-listing.md"
+    }
+  ]
+}
