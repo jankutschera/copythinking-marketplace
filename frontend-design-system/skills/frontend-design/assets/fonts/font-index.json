@@ -1,0 +1,583 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "description": "Curated font collection for distinctive frontend design",
+    "note": "All fonts are available via Google Fonts or Fontshare (free for commercial use)"
+  },
+  "fonts": {
+    "display": [
+      {
+        "name": "Clash Display",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/clash-display",
+        "weights": ["400", "500", "600", "700"],
+        "style": "geometric-bold",
+        "mood": ["modern", "tech", "confident", "bold"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=clash-display@400,500,600,700&display=swap');"
+      },
+      {
+        "name": "Zodiak",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/zodiak",
+        "weights": ["400", "500", "600", "700", "800"],
+        "style": "art-deco-serif",
+        "mood": ["luxury", "editorial", "sophisticated", "vintage"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=zodiak@400,500,600,700,800&display=swap');"
+      },
+      {
+        "name": "Cabinet Grotesk",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/cabinet-grotesk",
+        "weights": ["400", "500", "700", "800", "900"],
+        "style": "industrial-sans",
+        "mood": ["brutalist", "startup", "bold", "direct"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,700,800,900&display=swap');"
+      },
+      {
+        "name": "Fraunces",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Fraunces",
+        "weights": ["variable"],
+        "style": "variable-optical",
+        "mood": ["editorial", "literary", "warm", "expressive"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100..900&display=swap');"
+      },
+      {
+        "name": "Chillax",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/chillax",
+        "weights": ["200", "300", "400", "500", "600", "700"],
+        "style": "friendly-geometric",
+        "mood": ["playful", "saas", "friendly", "approachable"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=chillax@200,300,400,500,600,700&display=swap');"
+      },
+      {
+        "name": "Gloock",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Gloock",
+        "weights": ["400"],
+        "style": "heavy-display",
+        "mood": ["bold", "statement", "headlines", "impact"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');"
+      },
+      {
+        "name": "Young Serif",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Young+Serif",
+        "weights": ["400"],
+        "style": "warm-serif",
+        "mood": ["friendly", "warm", "approachable", "brand"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');"
+      },
+      {
+        "name": "General Sans",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/general-sans",
+        "weights": ["200", "300", "400", "500", "600", "700"],
+        "style": "clean-geometric",
+        "mood": ["modern", "minimal", "versatile", "clean"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=general-sans@200,300,400,500,600,700&display=swap');"
+      },
+      {
+        "name": "Satoshi",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/satoshi",
+        "weights": ["300", "400", "500", "700", "900"],
+        "style": "contemporary-sans",
+        "mood": ["tech", "fintech", "modern", "professional"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');"
+      },
+      {
+        "name": "Syne",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Syne",
+        "weights": ["400", "500", "600", "700", "800"],
+        "style": "experimental",
+        "mood": ["creative", "art", "experimental", "unique"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');"
+      },
+      {
+        "name": "Boska",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/boska",
+        "weights": ["200", "300", "400", "500", "700"],
+        "style": "dramatic-display",
+        "mood": ["fashion", "editorial", "dramatic", "elegant"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=boska@200,300,400,500,700&display=swap');"
+      },
+      {
+        "name": "Melodrama",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/melodrama",
+        "weights": ["300", "400", "500", "600", "700"],
+        "style": "dramatic-serif",
+        "mood": ["fashion", "artistic", "expressive", "bold"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=melodrama@300,400,500,600,700&display=swap');"
+      },
+      {
+        "name": "Gambetta",
+        "source": "fontshare",
+        "url": "https://www.fontshare.com/fonts/gambetta",
+        "weights": ["300", "400", "500", "600", "700"],
+        "style": "elegant-serif",
+        "mood": ["luxury", "refined", "editorial", "classic"],
+        "cssImport": "@import url('https://api.fontshare.com/v2/css?f[]=gambetta@300,400,500,600,700&display=swap');"
+      },
+      {
+        "name": "Bebas Neue",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Bebas+Neue",
+        "weights": ["400"],
+        "style": "condensed-impact",
+        "mood": ["impact", "headlines", "sports", "bold"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');"
+      },
+      {
+        "name": "Playfair Display",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Playfair+Display",
+        "weights": ["400", "500", "600", "700", "800", "900"],
+        "style": "transitional-serif",
+        "mood": ["elegant", "luxury", "editorial", "classic"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap');"
+      }
+    ],
+    "body": [
+      {
+        "name": "Instrument Serif",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Instrument+Serif",
+        "weights": ["400"],
+        "style": "elegant-reading",
+        "mood": ["editorial", "literary", "elegant", "readable"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');"
+      },
+      {
+        "name": "Work Sans",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Work+Sans",
+        "weights": ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "clean-readable",
+        "mood": ["professional", "documentation", "clean", "versatile"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100..900&display=swap');"
+      },
+      {
+        "name": "Bricolage Grotesque",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Bricolage+Grotesque",
+        "weights": ["200", "300", "400", "500", "600", "700", "800"],
+        "style": "warm-sans",
+        "mood": ["friendly", "approachable", "modern", "warm"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@200..800&display=swap');"
+      },
+      {
+        "name": "Source Serif 4",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Source+Serif+4",
+        "weights": ["200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "professional-serif",
+        "mood": ["business", "professional", "content", "readable"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@200..900&display=swap');"
+      },
+      {
+        "name": "Crimson Pro",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Crimson+Pro",
+        "weights": ["200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "classic-book",
+        "mood": ["editorial", "classic", "literary", "refined"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200..900&display=swap');"
+      },
+      {
+        "name": "Lora",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Lora",
+        "weights": ["400", "500", "600", "700"],
+        "style": "calligraphic-serif",
+        "mood": ["blogs", "stories", "personal", "warm"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400..700&display=swap');"
+      },
+      {
+        "name": "Libre Baskerville",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Libre+Baskerville",
+        "weights": ["400", "700"],
+        "style": "traditional-serif",
+        "mood": ["formal", "traditional", "professional", "content"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');"
+      },
+      {
+        "name": "Outfit",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Outfit",
+        "weights": ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "geometric-body",
+        "mood": ["modern", "apps", "clean", "tech"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');"
+      },
+      {
+        "name": "IBM Plex Sans",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/IBM+Plex+Sans",
+        "weights": ["100", "200", "300", "400", "500", "600", "700"],
+        "style": "corporate-sans",
+        "mood": ["enterprise", "professional", "tech", "reliable"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100..700&display=swap');"
+      },
+      {
+        "name": "DM Sans",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/DM+Sans",
+        "weights": ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "friendly-sans",
+        "mood": ["dashboards", "apps", "modern", "friendly"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@100..900&display=swap');"
+      },
+      {
+        "name": "Newsreader",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Newsreader",
+        "weights": ["200", "300", "400", "500", "600", "700", "800"],
+        "style": "newspaper-serif",
+        "mood": ["news", "articles", "editorial", "clarity"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@200..800&display=swap');"
+      },
+      {
+        "name": "Spectral",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Spectral",
+        "weights": ["200", "300", "400", "500", "600", "700", "800"],
+        "style": "screen-serif",
+        "mood": ["longform", "reading", "comfortable", "digital"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@200..800&display=swap');"
+      },
+      {
+        "name": "Atkinson Hyperlegible",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Atkinson+Hyperlegible",
+        "weights": ["400", "700"],
+        "style": "accessible-sans",
+        "mood": ["accessibility", "inclusive", "clear", "readable"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');"
+      },
+      {
+        "name": "Literata",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Literata",
+        "weights": ["200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "ebook-serif",
+        "mood": ["ebooks", "digital", "reading", "comfortable"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Literata:wght@200..900&display=swap');"
+      },
+      {
+        "name": "Manrope",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Manrope",
+        "weights": ["200", "300", "400", "500", "600", "700", "800"],
+        "style": "modern-geometric",
+        "mood": ["modern", "startup", "clean", "versatile"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');"
+      }
+    ],
+    "accent": [
+      {
+        "name": "Italiana",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Italiana",
+        "weights": ["400"],
+        "style": "elegant-caps",
+        "mood": ["luxury", "labels", "decorative", "refined"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');"
+      },
+      {
+        "name": "Poiret One",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Poiret+One",
+        "weights": ["400"],
+        "style": "art-nouveau",
+        "mood": ["decorative", "artistic", "vintage", "elegant"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');"
+      },
+      {
+        "name": "Silkscreen",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Silkscreen",
+        "weights": ["400", "700"],
+        "style": "pixel",
+        "mood": ["gaming", "retro", "nostalgic", "digital"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');"
+      },
+      {
+        "name": "Pixelify Sans",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Pixelify+Sans",
+        "weights": ["400", "500", "600", "700"],
+        "style": "modern-pixel",
+        "mood": ["tech", "gaming", "playful", "nostalgic"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');"
+      },
+      {
+        "name": "Caveat",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Caveat",
+        "weights": ["400", "500", "600", "700"],
+        "style": "handwritten",
+        "mood": ["personal", "casual", "friendly", "notes"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');"
+      },
+      {
+        "name": "Big Shoulders Display",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Big+Shoulders+Display",
+        "weights": ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "condensed-impact",
+        "mood": ["sports", "action", "bold", "industrial"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&display=swap');"
+      },
+      {
+        "name": "Tektur",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Tektur",
+        "weights": ["400", "500", "600", "700", "800", "900"],
+        "style": "futuristic",
+        "mood": ["scifi", "tech", "futuristic", "cyber"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');"
+      },
+      {
+        "name": "Kaushan Script",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Kaushan+Script",
+        "weights": ["400"],
+        "style": "brush-script",
+        "mood": ["creative", "artistic", "expressive", "personal"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');"
+      },
+      {
+        "name": "Righteous",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Righteous",
+        "weights": ["400"],
+        "style": "retro-display",
+        "mood": ["retro", "70s", "fun", "nostalgic"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');"
+      },
+      {
+        "name": "Orbitron",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Orbitron",
+        "weights": ["400", "500", "600", "700", "800", "900"],
+        "style": "space-age",
+        "mood": ["scifi", "tech", "futuristic", "digital"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');"
+      }
+    ],
+    "mono": [
+      {
+        "name": "JetBrains Mono",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/JetBrains+Mono",
+        "weights": ["100", "200", "300", "400", "500", "600", "700", "800"],
+        "style": "developer",
+        "mood": ["code", "developer", "technical", "precise"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100..800&display=swap');"
+      },
+      {
+        "name": "Geist Mono",
+        "source": "vercel",
+        "url": "https://vercel.com/font",
+        "weights": ["400", "500", "600", "700"],
+        "style": "modern-terminal",
+        "mood": ["modern", "terminal", "clean", "tech"],
+        "cssImport": "/* Self-host from Vercel or use npm package */"
+      },
+      {
+        "name": "IBM Plex Mono",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/IBM+Plex+Mono",
+        "weights": ["100", "200", "300", "400", "500", "600", "700"],
+        "style": "corporate-mono",
+        "mood": ["enterprise", "professional", "technical", "reliable"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100..700&display=swap');"
+      },
+      {
+        "name": "Red Hat Mono",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Red+Hat+Mono",
+        "weights": ["300", "400", "500", "600", "700"],
+        "style": "distinctive-mono",
+        "mood": ["linux", "distinctive", "technical", "open"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300..700&display=swap');"
+      },
+      {
+        "name": "DM Mono",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/DM+Mono",
+        "weights": ["300", "400", "500"],
+        "style": "friendly-mono",
+        "mood": ["friendly", "learning", "approachable", "clean"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300..500&display=swap');"
+      },
+      {
+        "name": "Fira Code",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Fira+Code",
+        "weights": ["300", "400", "500", "600", "700"],
+        "style": "ligatures",
+        "mood": ["programming", "ligatures", "developer", "functional"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');"
+      },
+      {
+        "name": "Source Code Pro",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Source+Code+Pro",
+        "weights": ["200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "adobe-mono",
+        "mood": ["professional", "clean", "readable", "technical"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200..900&display=swap');"
+      },
+      {
+        "name": "Recursive",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Recursive",
+        "weights": ["variable"],
+        "style": "variable-mono",
+        "mood": ["flexible", "modern", "expressive", "creative"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');"
+      },
+      {
+        "name": "Space Mono",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Space+Mono",
+        "weights": ["400", "700"],
+        "style": "retro-futuristic",
+        "mood": ["retro", "futuristic", "creative", "distinctive"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');"
+      },
+      {
+        "name": "Inconsolata",
+        "source": "google",
+        "url": "https://fonts.google.com/specimen/Inconsolata",
+        "weights": ["200", "300", "400", "500", "600", "700", "800", "900"],
+        "style": "humanist-mono",
+        "mood": ["readable", "comfortable", "versatile", "friendly"],
+        "cssImport": "@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');"
+      }
+    ]
+  },
+  "pairings": [
+    {
+      "name": "Modern Tech",
+      "display": "Clash Display",
+      "body": "Outfit",
+      "mono": "Geist Mono",
+      "mood": ["tech", "saas", "startup"],
+      "description": "Bold geometric display with clean body text. Perfect for tech products and dashboards."
+    },
+    {
+      "name": "Editorial Luxury",
+      "display": "Zodiak",
+      "body": "Instrument Serif",
+      "mono": "IBM Plex Mono",
+      "mood": ["editorial", "luxury", "magazine"],
+      "description": "Art deco headlines with elegant body text. Ideal for fashion, luxury, and editorial."
+    },
+    {
+      "name": "Friendly SaaS",
+      "display": "Chillax",
+      "body": "DM Sans",
+      "mono": "DM Mono",
+      "mood": ["friendly", "saas", "b2b"],
+      "description": "Approachable and modern. Great for B2B products that want to feel human."
+    },
+    {
+      "name": "Brutalist Statement",
+      "display": "Cabinet Grotesk",
+      "body": "Work Sans",
+      "mono": "JetBrains Mono",
+      "mood": ["brutalist", "bold", "direct"],
+      "description": "Raw, industrial feel. Perfect for agencies, portfolios, and bold brands."
+    },
+    {
+      "name": "Warm Editorial",
+      "display": "Fraunces",
+      "body": "Source Serif 4",
+      "mono": "Source Code Pro",
+      "mood": ["warm", "literary", "content"],
+      "description": "Expressive and warm. Ideal for blogs, publications, and content platforms."
+    },
+    {
+      "name": "Playful Creative",
+      "display": "Syne",
+      "body": "Bricolage Grotesque",
+      "mono": "Recursive",
+      "mood": ["creative", "experimental", "fun"],
+      "description": "Experimental and unique. Perfect for creative agencies and art projects."
+    },
+    {
+      "name": "Professional Enterprise",
+      "display": "Satoshi",
+      "body": "IBM Plex Sans",
+      "mono": "IBM Plex Mono",
+      "mood": ["enterprise", "professional", "finance"],
+      "description": "Trustworthy and professional. Ideal for fintech, enterprise, and corporate."
+    },
+    {
+      "name": "Fashion Forward",
+      "display": "Melodrama",
+      "body": "Crimson Pro",
+      "mono": "Space Mono",
+      "mood": ["fashion", "lifestyle", "bold"],
+      "description": "Dramatic and stylish. Perfect for fashion brands and lifestyle products."
+    },
+    {
+      "name": "Minimal Refined",
+      "display": "General Sans",
+      "body": "Newsreader",
+      "mono": "Red Hat Mono",
+      "mood": ["minimal", "refined", "clean"],
+      "description": "Clean and sophisticated. Great for minimal designs and content-focused sites."
+    },
+    {
+      "name": "Retro Gaming",
+      "display": "Pixelify Sans",
+      "body": "Manrope",
+      "mono": "Fira Code",
+      "mood": ["gaming", "retro", "playful"],
+      "description": "Nostalgic pixel aesthetic with modern readability. Fun for gaming and creative projects."
+    },
+    {
+      "name": "Classic Elegance",
+      "display": "Playfair Display",
+      "body": "Lora",
+      "mono": "Inconsolata",
+      "mood": ["classic", "elegant", "timeless"],
+      "description": "Timeless serif combination. Perfect for weddings, wine, and heritage brands."
+    },
+    {
+      "name": "Sci-Fi Tech",
+      "display": "Tektur",
+      "body": "Outfit",
+      "mono": "JetBrains Mono",
+      "mood": ["scifi", "cyber", "futuristic"],
+      "description": "Futuristic and bold. Great for tech, gaming, and sci-fi themed projects."
+    }
+  ],
+  "blacklist": {
+    "description": "Fonts to NEVER use - overused in AI-generated content",
+    "fonts": [
+      "Inter",
+      "Roboto",
+      "Arial",
+      "Open Sans",
+      "Lato",
+      "Montserrat",
+      "Poppins",
+      "Space Grotesk",
+      "Nunito",
+      "Raleway",
+      "Helvetica",
+      "system-ui"
+    ],
+    "reason": "These fonts are so overused that they signal 'generic' or 'AI-generated' to users. Using distinctive fonts immediately elevates design quality."
+  }
+}

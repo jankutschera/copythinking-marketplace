@@ -16,6 +16,11 @@
       "name": "amazon-kdp-seo",
       "source": "./amazon-kdp-seo",
       "description": "Amazon KDP SEO Toolkit - Analysiere und optimiere Buch-Listings"
+    },
+    {
+      "name": "frontend-design-system",
+      "source": "./frontend-design-system",
+      "description": "Complete design system for distinctive frontend interfaces with 50 fonts, motion library, and component patterns"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "name": "frontend-design-system",
+  "version": "1.0.0",
+  "description": "Complete design system for creating distinctive, production-grade frontend interfaces. Includes 50 curated fonts, live inspiration scraping, motion library, component patterns, and framework integrations.",
+  "author": {
+    "name": "True Brew Birdie Ltd.",
+    "url": "https://truebrewbirdie.com"
+  },
+  "keywords": [
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "web-design",
+    "tailwind",
+    "shadcn",
+    "motion",
+    "typography",
+    "components"
+  ],
+  "skills": [
+    {
+      "name": "frontend-design",
+      "path": "skills/frontend-design"
+    }
+  ]
+}
