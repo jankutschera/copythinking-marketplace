@@ -1,5 +1,5 @@
 ---
-name: frontend-design
+name: truebrewbirdie-design
 description: Complete design system for web and UI design. Use this skill when the user mentions "design", asks for design help, wants to design something, needs UI design, UX design, web design, graphic design for web, visual design, interface design, or any design-related request. Also triggers for building websites, landing pages, dashboards, web apps, React components, HTML/CSS, styling, beautifying UI, creating layouts, or making things look good. Includes 50 curated fonts, motion library, component patterns, and live inspiration from design galleries.
 license: Complete terms in LICENSE.txt
 ---
