@@ -21,6 +21,11 @@
       "name": "frontend-design-system",
       "source": "./frontend-design-system",
       "description": "Complete design system for distinctive frontend interfaces with 50 fonts, motion library, and component patterns"
+    },
+    {
+      "name": "nano-banana-pro",
+      "source": "./nano-banana-pro",
+      "description": "AI image generation mastery with Nano Banana Pro - social media templates, infographics, and style presets"
     }
   ]
 }

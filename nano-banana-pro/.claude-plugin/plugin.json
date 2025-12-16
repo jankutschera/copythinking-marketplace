@@ -1,0 +1,11 @@
+{
+  "name": "nano-banana-pro",
+  "version": "1.1.0",
+  "description": "Enhanced image generation with Nano Banana Pro - prompting mastery, social media templates, and style presets for Instagram, TikTok, infographics, and more",
+  "author": {
+    "name": "True Brew Birdie Ltd.",
+    "url": "https://truebrewbirdie.com"
+  },
+  "keywords": ["image-generation", "nano-banana", "fal-ai", "creative", "prompting", "instagram", "social-media", "infographics"],
+  "license": "MIT"
+}
