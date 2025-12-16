@@ -1,12 +1,12 @@
 ---
 name: truebrewbirdie-design
-description: Complete design system for web and UI design. Use this skill when the user mentions "design", asks for design help, wants to design something, needs UI design, UX design, web design, graphic design for web, visual design, interface design, or any design-related request. Also triggers for building websites, landing pages, dashboards, web apps, React components, HTML/CSS, styling, beautifying UI, creating layouts, or making things look good. Includes 50 curated fonts, motion library, component patterns, and live inspiration from design galleries.
+description: Complete design system for web, UI, and social media design. Use this skill when the user mentions "design", asks for design help, wants to design something, needs UI design, UX design, web design, social media design, Instagram posts, Stories, Reels, TikTok graphics, LinkedIn posts, Twitter/X graphics, YouTube thumbnails, OG images, graphic design for web, visual design, interface design, or any design-related request. Also triggers for building websites, landing pages, dashboards, web apps, React components, HTML/CSS, styling, beautifying UI, creating layouts, making things look good, or creating social media content. Includes 50 curated fonts, motion library, component patterns, social media templates (9:16, 1:1, 4:5, 16:9), and live inspiration from design galleries.
 license: Complete terms in LICENSE.txt
 ---
 
-# Frontend Design System
+# Frontend & Social Media Design System
 
-A complete design system for creating distinctive, production-grade frontend interfaces.
+A complete design system for creating distinctive, production-grade frontend interfaces AND social media graphics.
 
 ## Quick Start
 
@@ -17,6 +17,7 @@ A complete design system for creating distinctive, production-grade frontend int
 
 ## Resource Navigation
 
+### Web & UI Design
 | Need | Reference |
 |------|-----------|
 | Live design inspiration | `references/inspiration-sources.md` |
@@ -26,8 +27,18 @@ A complete design system for creating distinctive, production-grade frontend int
 | Animations & transitions | `references/motion-library.md` |
 | UI component templates | `references/component-patterns.md` |
 | Grid & layout patterns | `references/layout-system.md` |
-| OG images & social cards | `references/social-media.md` |
 | Tailwind & shadcn/ui | `references/framework-integration.md` |
+
+### Social Media Design
+| Need | Reference |
+|------|-----------|
+| **All Social Media formats** | `references/social-media.md` |
+| Stories/Reels (9:16) | `references/social-media.md` → 1080×1920 templates |
+| Instagram/LinkedIn Square (1:1) | `references/social-media.md` → 1080×1080 templates |
+| Instagram Portrait (4:5) | `references/social-media.md` → 1080×1350 templates |
+| YouTube Thumbnails (16:9) | `references/social-media.md` → 1280×720 templates |
+| Twitter/LinkedIn Landscape | `references/social-media.md` → 1200×675 templates |
+| OG images & meta tags | `references/social-media.md` → 1200×630 templates |
 
 ## Design Workflow
 
@@ -60,6 +71,37 @@ Reference specific guides as needed:
 - Motion: Use patterns from `references/motion-library.md`
 - Components: Start from templates in `references/component-patterns.md`
 - Layouts: Apply patterns from `references/layout-system.md`
+
+---
+
+## Social Media Design Workflow
+
+For Instagram, TikTok, LinkedIn, Twitter/X, YouTube:
+
+### Step 1: Choose Format
+| Content Type | Best Format |
+|--------------|-------------|
+| Stories, Reels, TikTok | **9:16** (1080×1920) |
+| Instagram Feed | **4:5** (1080×1350) or **1:1** (1080×1080) |
+| LinkedIn Post | **1:1** (1080×1080) or **16:9** (1200×675) |
+| Twitter/X | **16:9** (1200×675) |
+| YouTube Thumbnail | **16:9** (1280×720) |
+| Carousel | **1:1** (1080×1080) per slide |
+
+### Step 2: Apply Template
+Go to `references/social-media.md` and:
+1. Pick template for your format
+2. Customize colors, fonts, content
+3. Respect safe zones (especially for Stories!)
+
+### Step 3: Key Principles
+- **3-second rule**: Hook attention immediately
+- **Less text = more impact** (especially 9:16)
+- **High contrast**: Must be readable on mobile
+- **Brand consistency**: Same fonts, colors across posts
+- **Platform-native**: Each platform has different vibes
+
+---
 
 ## Core Principles
 
