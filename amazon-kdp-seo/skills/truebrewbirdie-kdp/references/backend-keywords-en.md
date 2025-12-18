@@ -1,192 +1,260 @@
-# Backend Keywords Strategy Guide (English/US Market)
+# Backend Keywords Strategy (English/US Market)
+
+Complete guide for Amazon US/UK backend keywords with real examples.
+
+---
 
 ## The 7 Keyword Fields
 
-Amazon KDP provides **7 keyword boxes**, each with a **maximum of 50 characters**.
+Amazon KDP provides **7 keyword fields** with **50 characters each** = 350 total characters.
 
 ### Golden Rules
 
-| Rule | Explanation |
-|------|-------------|
-| **No quotes** | Quotes restrict to exact match only |
-| **No commas needed** | Spaces work as separators |
-| **Don't repeat title words** | Already indexed from title/subtitle |
-| **No subjective claims** | "best", "top", "#1" are prohibited |
-| **No time-sensitive terms** | "new", "2024", "latest" lose value |
-| **No competitor names** | Trademark issues |
-| **No irrelevant keywords** | Can get book suppressed |
+| Rule | Why |
+|------|-----|
+| **No title repetition** | Words in title already indexed |
+| **No quotes** | Limits to exact match only |
+| **No commas needed** | Spaces separate keywords |
+| **No subjective claims** | "best", "top", "#1" forbidden |
+| **No time-sensitive** | "new", "2024", "latest" forbidden |
+| **No competitor names** | Exception: "fans of [author]" |
 
 ---
 
-## Strategic Keyword Box Allocation
+## Strategic Framework
 
-### Box 1-2: Core Target Phrases
-Use fewer words per box = stronger ranking for those specific phrases.
+### Box Distribution Strategy
 
 ```
-Example (BDSM Guide):
+Box 1-2: High-intent specific phrases
+         (Fewer words = stronger ranking for that phrase)
+
+Box 3-4: Long-tail keyword combinations
+         (Use all 50 characters, multiple related terms)
+
+Box 5-6: Audience & interest keywords
+         (Who is searching, what else do they like)
+
+Box 7:   Comparison & discovery keywords
+         (Fans of X, similar to Y)
+```
+
+---
+
+## Real Examples by Genre
+
+### BDSM/Relationship Guide
+
+**Title:** Mastering the Scene: A Guide to Safe, Thrilling and Consensual BDSM Play Scenes
+
+**Already indexed (DON'T repeat):** mastering, scene, guide, safe, thrilling, consensual, BDSM, play, scenes
+
+```
 Box 1: dom sub relationship power exchange beginner
 Box 2: dominance submission roleplay scenarios ideas
-```
-
-### Box 3-4: Long-Tail Keywords
-Use all 50 characters with related search terms.
-
-```
-Example:
 Box 3: bondage discipline kink lifestyle fetish
 Box 4: impact sensory spanking flogger paddle whip
-```
-
-### Box 5-6: Audience & Intent Keywords
-Target who's searching and why.
-
-```
-Example:
 Box 5: aftercare negotiation boundaries trust build
 Box 6: fifty shades alternative d/s dynamic couple
-```
-
-### Box 7: Catch-All & Variations
-Synonyms, misspellings, related terms.
-
-```
-Example:
 Box 7: dominant training submissive adult intimacy
 ```
 
+### Sugar Skull Coloring Book
+
+**Title:** Calavera Coloring Book for Adults – 36 Unique Sugar Skull Designs
+
+**Already indexed (DON'T repeat):** calavera, coloring, book, adults, sugar, skull, designs, unique
+
+```
+Box 1: day of the dead dia de los muertos
+Box 2: mexican folk art traditional patterns
+Box 3: stress relief relaxation mindfulness meditation
+Box 4: intricate detailed illustrations tattoo style
+Box 5: halloween gift women creative hobby art
+Box 6: markers colored pencils gel pens thick paper
+Box 7: cultural appreciation gothic aesthetic
+```
+
+### Self-Help/Productivity Book
+
+**Title:** Atomic Focus: The 7-Step System for Deep Work
+
+**Already indexed (DON'T repeat):** atomic, focus, step, system, deep, work
+
+```
+Box 1: productivity concentration distraction free
+Box 2: time management attention span improve
+Box 3: habits routine morning ritual success
+Box 4: mindset professional career growth efficiency
+Box 5: remote working from home office tips
+Box 6: pomodoro technique flow state achieve
+Box 7: fans of cal newport james clear
+```
+
+### Romance Novel
+
+**Title:** When Stars Collide: A Small Town Romance
+
+**Already indexed (DON'T repeat):** when, stars, collide, small, town, romance
+
+```
+Box 1: second chance love story emotional
+Box 2: enemies to lovers slow burn tension
+Box 3: heartwarming feel good happy ending
+Box 4: contemporary womens fiction relationship drama
+Box 5: beach read vacation book summer
+Box 6: kindle unlimited ku clean wholesome
+Box 7: fans of nicholas sparks colleen hoover
+```
+
+### Thriller/Mystery
+
+**Title:** The Silent Patient: A Psychological Thriller
+
+**Already indexed (DON'T repeat):** silent, patient, psychological, thriller
+
+```
+Box 1: suspense mystery page turner gripping
+Box 2: unreliable narrator twist ending shocking
+Box 3: crime detective investigation murder
+Box 4: dark domestic noir atmosphere tension
+Box 5: book club fiction adult reading
+Box 6: kindle bestseller compelling addictive
+Box 7: fans of gillian flynn ruth ware
+```
+
 ---
 
-## What to Include in Keywords
+## Keyword Categories to Include
 
-### By Category:
+### 1. Format & Medium
+- kindle ebook digital audiobook paperback
+- large print easy read quick read
 
-| Category | Keyword Types |
-|----------|---------------|
-| **Setting** | Location, time period, atmosphere |
-| **Characters** | Protagonist types, relationships |
-| **Themes** | Core topics, emotional journeys |
-| **Tropes** | Genre conventions readers search for |
-| **Comparisons** | "fans of [author]", "like [book]" |
-| **Format** | "illustrated", "workbook", "journal" |
-| **Audience** | "for beginners", "for couples", "for teens" |
+### 2. Reading Occasion
+- beach read vacation book commute
+- weekend read binge worthy one sitting
 
-### Fiction Keywords:
-- Subgenre terms (cozy mystery, dark romance, LitRPG)
-- Trope names (enemies to lovers, chosen one, found family)
-- Setting descriptors (small town, regency era, space opera)
-- Mood/tone (dark, humorous, heartwarming)
-- Comparable authors (without using their names directly)
+### 3. Emotional Outcome
+- feel good uplifting inspiring heartwarming
+- thrilling suspenseful edge of seat gripping
 
-### Non-Fiction Keywords:
-- Problem terms (what readers search when struggling)
-- Solution terms (what they hope to achieve)
-- Method/system names (if you have one)
-- Audience identifiers (profession, life stage, situation)
-- Related topics (adjacent interests)
+### 4. Audience Descriptors
+- women men teens young adults seniors
+- beginners experts professionals hobbyists
+
+### 5. Comparable Content
+- fans of [author name]
+- similar to [book title]
+- readers who liked [series]
+
+### 6. Themes & Topics
+- [specific themes in your book]
+- [settings, time periods, locations]
+
+### 7. Use Cases
+- gift birthday christmas mother's day
+- book club discussion group read
 
 ---
 
 ## Keyword Research Methods
 
-### 1. Amazon Autocomplete
-1. Go to Amazon.com/de
-2. Type your main genre/topic
-3. Note all autocomplete suggestions
-4. Add letters a-z after main term
-5. Record all relevant suggestions
+### Amazon Autocomplete
+1. Go to amazon.com/amazon.co.uk
+2. Type your main keyword + space
+3. Record all suggestions
+4. Add letters a-z after keyword
+5. Repeat for variations
 
-### 2. Competitor Analysis
-1. Find top 10 books in your niche
+### Competitor Analysis
+1. Find top 10 books in your category
 2. Analyze their titles and subtitles
-3. Check their categories
-4. Read their reviews for reader language
-5. Note recurring terms
+3. Read their reviews for reader language
+4. Note themes and emotional triggers
 
-### 3. Amazon Search Results
-1. Search your main keyword
-2. Look at "Customers also searched for"
-3. Check "Related searches" at bottom
-4. Note category names books appear in
-
-### 4. Review Mining
-1. Read 1-3 star reviews of competitors
-2. What words do readers use?
-3. What were they looking for?
-4. What did they wish was different?
+### Review Mining
+Look for phrases readers use:
+- "I was looking for..."
+- "Perfect for..."
+- "If you like..."
+- "This is great for..."
 
 ---
 
-## Real Example: BDSM Guide Keywords
+## Character Count Examples
 
-**Book:** "Mastering the Scene: A Guide to Safe, Thrilling and Consensual BDSM Play Scenes"
+Each box maxes at 50 characters. Here's how to optimize:
 
-**Words NOT to use** (already in title/subtitle):
-- ~~BDSM~~, ~~safe~~, ~~consensual~~, ~~scene/scenes~~, ~~guide~~, ~~play~~, ~~mastering~~, ~~thrilling~~
+```
+Box example (49 chars): "dom sub relationship power exchange beginner tips"
+                        ─────────────────────────────────────────────────
+                        1234567890123456789012345678901234567890123456789
 
-**Optimized 7 Keyword Boxes:**
+Too long (53 chars):    "dom sub relationship power exchange beginner guide"
+                        Would need to cut "guide" ✗
+```
 
-| Box | Keywords | Strategy |
-|-----|----------|----------|
-| 1 | `dom sub relationship power exchange beginner` | Core audience terms |
-| 2 | `dominance submission roleplay scenarios ideas` | Related searches |
-| 3 | `bondage discipline kink lifestyle fetish` | Genre terms |
-| 4 | `impact sensory spanking flogger paddle whip` | Activity keywords |
-| 5 | `aftercare negotiation boundaries trust build` | Process terms |
-| 6 | `fifty shades alternative d/s dynamic couple` | Comparison + audience |
-| 7 | `dominant training submissive adult intimacy` | Variations |
+### Quick Character Counter
+
+| Phrase | Characters |
+|--------|------------|
+| "fans of stephen king" | 20 |
+| "psychological thriller suspense" | 32 |
+| "second chance romance small town" | 33 |
+| "adult coloring book stress relief" | 34 |
+| "self help personal development growth mindset" | 46 |
 
 ---
 
 ## Common Mistakes to Avoid
 
-### 1. Keyword Stuffing in Title
-❌ "BDSM Guide: BDSM for Beginners, BDSM Scenes, BDSM Training"
-✅ "Mastering the Scene: A Guide to Safe, Consensual BDSM Play"
+### ❌ Keyword Stuffing
+```
+Bad:  "romance romance book romance novel romance story"
+Good: "romance contemporary love story emotional journey"
+```
 
-### 2. Repeating Title Words in Backend
-❌ Using "BDSM" or "guide" in backend keywords
-✅ Using synonyms and related terms not in title
+### ❌ Repeating Title Words
+```
+Title: "The Art of War for Business"
+Bad:  "art war business strategy" (repeats 3 title words)
+Good: "leadership management competition tactics"
+```
 
-### 3. Using Competitor Brand Names
-❌ "better than fifty shades"
-✅ "fifty shades alternative"
+### ❌ Using Restricted Terms
+```
+Bad:  "best thriller 2024 new release bestseller"
+Good: "gripping suspenseful page turner addictive"
+```
 
-### 4. Irrelevant Keywords for Traffic
-❌ Adding trending unrelated keywords
-✅ Only relevant keywords that match content
-
-### 5. Single-Word Keywords
-❌ Box 1: "BDSM" (wastes space)
-✅ Box 1: "dom sub relationship power exchange beginner"
-
----
-
-## Keyword Optimization Checklist
-
-Before publishing, verify:
-
-- [ ] All 7 boxes filled (or strategically left shorter for phrase targeting)
-- [ ] No words from title/subtitle repeated
-- [ ] Mix of short phrases (boxes 1-2) and long-tail (boxes 3-7)
-- [ ] Includes audience identifiers ("for beginners", "for couples")
-- [ ] Includes comparison terms ("fans of", "alternative to")
-- [ ] No prohibited terms (superlatives, time-sensitive, trademarked)
-- [ ] Keywords match actual book content
-- [ ] Tested searches on Amazon show relevant results
+### ❌ Too Broad
+```
+Bad:  "book fiction reading story"
+Good: "dark academia mystery campus setting secrets"
+```
 
 ---
 
-## Character Count Helper
+## Pro Tips
 
-| Box | Keywords | Count |
-|-----|----------|-------|
-| 1 | `_____________________________________________` | /50 |
-| 2 | `_____________________________________________` | /50 |
-| 3 | `_____________________________________________` | /50 |
-| 4 | `_____________________________________________` | /50 |
-| 5 | `_____________________________________________` | /50 |
-| 6 | `_____________________________________________` | /50 |
-| 7 | `_____________________________________________` | /50 |
+### Tip 1: Use Misspellings (Sparingly)
+Common misspellings can capture traffic:
+- "colouring" (UK) vs "coloring" (US)
+- "organisation" vs "organization"
 
-**Total potential:** 350 characters of searchable keywords (beyond title)
+### Tip 2: Include Format Variations
+- "ebook" "e-book" "e book"
+- "audiobook" "audio book"
+
+### Tip 3: Seasonal Keywords (If Relevant)
+- "halloween gift" "christmas present"
+- "summer read" "vacation book"
+
+### Tip 4: Problem-Solution Pairs
+- "anxiety help" "stress management"
+- "weight loss journey" "fitness motivation"
+
+### Tip 5: Combine Singular/Plural
+Since Amazon treats them similarly, pick the higher-volume variant:
+- "recipe" vs "recipes" (check autocomplete for which is more common)

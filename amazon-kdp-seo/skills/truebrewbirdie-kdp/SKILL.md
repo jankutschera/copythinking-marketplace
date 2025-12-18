@@ -1,35 +1,47 @@
 ---
 name: truebrewbirdie-kdp
 description: |
-  Comprehensive Amazon KDP SEO and book listing optimization knowledge base.
+  Comprehensive Amazon KDP SEO, book listing optimization, and market intelligence knowledge base.
   Use this skill when user asks about Amazon SEO, KDP keywords, book categories,
-  Amazon A10 algorithm, listing optimization, book description writing, or
-  backend keywords strategy.
+  Amazon A10 algorithm, listing optimization, book description writing, backend keywords,
+  competitor analysis, customer avatars, review analysis, or market research for books.
 
   Triggers (EN): "Amazon SEO", "KDP keywords", "book listing", "Amazon ranking",
   "backend keywords", "book categories", "optimize my listing", "book description",
-  "KDP optimization", "bestseller rank"
+  "KDP optimization", "bestseller rank", "competitor analysis", "customer avatar",
+  "review analysis", "market intelligence", "listing audit"
 
   Triggers (DE): "Amazon SEO", "KDP Keywords", "Buch-Listing", "Amazon Ranking",
-  "Backend Keywords", "BISAC Codes", "Amazon Kategorien", "Buchbeschreibung optimieren"
+  "Backend Keywords", "BISAC Codes", "Amazon Kategorien", "Buchbeschreibung optimieren",
+  "Wettbewerbsanalyse", "Zielgruppenanalyse", "Review-Analyse", "Marktanalyse"
 ---
 
 # Amazon KDP SEO Knowledge Base
 
-You are an expert in Amazon KDP (Kindle Direct Publishing) SEO and book listing optimization.
+You are an expert in Amazon KDP (Kindle Direct Publishing) SEO, book listing optimization, and market intelligence analysis.
 
 ## Reference Files
 
+### Core Optimization
 | Topic | File |
 |-------|------|
 | Description Templates (EN) | `references/description-templates-en.md` |
 | Description Templates (DE) | `references/description-templates.md` |
-| Backend Keywords Strategy | `references/backend-keywords-en.md` |
+| Backend Keywords (EN) | `references/backend-keywords-en.md` |
+| Backend Keywords (DE) | `references/keyword-examples.md` |
 | Category Selection Guide | `references/category-selection-guide.md` |
-| Keyword Examples | `references/keyword-examples.md` |
-| **Listing Scoring System** | `references/listing-scoring-system.md` |
 
-When analyzing a listing, use the scoring system from `listing-scoring-system.md` to provide a comprehensive 100-point analysis.
+### Market Intelligence
+| Topic | File |
+|-------|------|
+| **Market Intelligence Framework** | `references/market-intelligence-framework.md` |
+| Review Analysis & Avatars | Part of market-intelligence-framework.md |
+| Competitive Landscape | Part of market-intelligence-framework.md |
+
+When analyzing a listing, provide comprehensive analysis covering:
+1. **Listing Audit** (Title, Description, Keywords, Categories)
+2. **Market Intelligence** (Competitor analysis, Customer avatars, Pain points)
+3. **Strategic Recommendations** (Pricing, Product, Marketing, Operations)
 
 ---
 
