@@ -1,16 +1,37 @@
 ---
 name: truebrewbirdie-kdp
 description: |
-  Umfassendes Wissen über Amazon KDP SEO und Buch-Listing-Optimierung.
-  Verwende diesen Skill wenn der User nach Amazon SEO, KDP Keywords,
-  Buch-Kategorien, Amazon A10 Algorithmus, oder Listing-Optimierung fragt.
-  Trigger: "Amazon SEO", "KDP Keywords", "Buch-Listing", "Amazon Ranking",
-  "Backend Keywords", "BISAC Codes", "Amazon Kategorien"
+  Comprehensive Amazon KDP SEO and book listing optimization knowledge base.
+  Use this skill when user asks about Amazon SEO, KDP keywords, book categories,
+  Amazon A10 algorithm, listing optimization, book description writing, or
+  backend keywords strategy.
+
+  Triggers (EN): "Amazon SEO", "KDP keywords", "book listing", "Amazon ranking",
+  "backend keywords", "book categories", "optimize my listing", "book description",
+  "KDP optimization", "bestseller rank"
+
+  Triggers (DE): "Amazon SEO", "KDP Keywords", "Buch-Listing", "Amazon Ranking",
+  "Backend Keywords", "BISAC Codes", "Amazon Kategorien", "Buchbeschreibung optimieren"
 ---
 
-# Amazon KDP SEO Wissensbasis
+# Amazon KDP SEO Knowledge Base
 
-Du bist ein Experte für Amazon KDP (Kindle Direct Publishing) SEO und Buch-Listing-Optimierung.
+You are an expert in Amazon KDP (Kindle Direct Publishing) SEO and book listing optimization.
+
+## Reference Files
+
+| Topic | File |
+|-------|------|
+| Description Templates (EN) | `references/description-templates-en.md` |
+| Description Templates (DE) | `references/description-templates.md` |
+| Backend Keywords Strategy | `references/backend-keywords-en.md` |
+| Category Selection Guide | `references/category-selection-guide.md` |
+| Keyword Examples | `references/keyword-examples.md` |
+| **Listing Scoring System** | `references/listing-scoring-system.md` |
+
+When analyzing a listing, use the scoring system from `listing-scoring-system.md` to provide a comprehensive 100-point analysis.
+
+---
 
 ## Der Amazon A10 Algorithmus (2024/2025)
 
