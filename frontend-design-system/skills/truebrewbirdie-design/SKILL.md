@@ -1,19 +1,43 @@
 ---
 name: truebrewbirdie-design
-description: Complete design system for web, UI, and social media design. Use this skill when the user mentions "design", asks for design help, wants to design something, needs UI design, UX design, web design, social media design, Instagram posts, Stories, Reels, TikTok graphics, LinkedIn posts, Twitter/X graphics, YouTube thumbnails, OG images, graphic design for web, visual design, interface design, or any design-related request. Also triggers for building websites, landing pages, dashboards, web apps, React components, HTML/CSS, styling, beautifying UI, creating layouts, making things look good, or creating social media content. Includes 50 curated fonts, motion library, component patterns, social media templates (9:16, 1:1, 4:5, 16:9), and live inspiration from design galleries.
+description: Create distinctive, production-grade frontend interfaces and social media graphics with exceptional design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, landing pages, dashboards, or applications. Also triggers for Instagram posts, Stories, Reels, TikTok graphics, YouTube thumbnails, LinkedIn posts, Twitter/X graphics, OG images, or any design-related request. Generates creative, polished code and UI design that actively avoids generic AI aesthetics. Every output must be memorable and unique.
 license: Complete terms in LICENSE.txt
 ---
 
 # Frontend & Social Media Design System
 
-A complete design system for creating distinctive, production-grade frontend interfaces AND social media graphics.
+Create distinctive, production-grade interfaces that **actively avoid generic AI aesthetics**.
+
+## CRITICAL: Design Quality Standards
+
+Before generating ANY design, internalize these rules:
+
+```
+YOU MUST:
+✓ Create something memorable and unique
+✓ Make bold creative choices
+✓ Use distinctive typography (NEVER Inter, Roboto, Arial)
+✓ Build a clear visual personality
+✓ Surprise with at least one unexpected element
+
+YOU MUST NOT:
+✗ Generate generic "AI-looking" designs
+✗ Use safe, boring color combinations
+✗ Center everything with equal spacing
+✗ Default to standard Tailwind styles
+✗ Create something that "could be any website"
+```
+
+---
 
 ## Quick Start
 
-1. **Understand context** → Purpose, audience, mood
-2. **Get inspiration** → Scrape live examples (see `references/inspiration-sources.md`)
-3. **Create theme** → Build 5-layer theme (see `references/theme-creation.md`)
-4. **Implement** → Use resources below as needed
+1. **Context** → Who, what, mood?
+2. **Inspiration** → Scrape live examples (`references/inspiration-sources.md`)
+3. **Theme** → Build 5-layer theme (`references/theme-creation.md`)
+4. **Implement** → Use resources below
+
+---
 
 ## Resource Navigation
 
@@ -32,135 +56,112 @@ A complete design system for creating distinctive, production-grade frontend int
 ### Social Media Design
 | Need | Reference |
 |------|-----------|
-| **All Social Media formats** | `references/social-media.md` |
-| Stories/Reels (9:16) | `references/social-media.md` → 1080×1920 templates |
-| Instagram/LinkedIn Square (1:1) | `references/social-media.md` → 1080×1080 templates |
-| Instagram Portrait (4:5) | `references/social-media.md` → 1080×1350 templates |
-| YouTube Thumbnails (16:9) | `references/social-media.md` → 1280×720 templates |
-| Twitter/LinkedIn Landscape | `references/social-media.md` → 1200×675 templates |
-| OG images & meta tags | `references/social-media.md` → 1200×630 templates |
-
-## Design Workflow
-
-### Step 1: Context Analysis
-Before ANY design work:
-- **Who** uses this? (audience, expertise level)
-- **What** problem does it solve?
-- **Where** will it live? (standalone, within app, mobile)
-- **What mood** should it convey?
-
-### Step 2: Live Inspiration
-Fetch 2-3 examples from design galleries matching your context:
-- Use `WebFetch` on sources listed in `references/inspiration-sources.md`
-- **Analyze, don't copy**: Extract principles, not pixels
-- Note: Color story, type pairing, motion philosophy, unique elements
-
-### Step 3: Theme Creation
-Build a 5-layer theme using `references/theme-creation.md`:
-```
-Layer 1: Foundation    → Spacing, radii
-Layer 2: Colors        → Semantic tokens
-Layer 3: Typography    → Font stack + scale
-Layer 4: Effects       → Shadows, transitions
-Layer 5: Personality   → What makes it UNIQUE?
-```
-
-### Step 4: Implementation
-Reference specific guides as needed:
-- Fonts: Choose from `assets/fonts/` (50 curated options)
-- Motion: Use patterns from `references/motion-library.md`
-- Components: Start from templates in `references/component-patterns.md`
-- Layouts: Apply patterns from `references/layout-system.md`
+| **All formats** | `references/social-media.md` |
+| Stories/Reels (9:16) | 1080×1920 templates |
+| Square (1:1) | 1080×1080 templates |
+| Portrait (4:5) | 1080×1350 templates |
+| Landscape (16:9) | 1280×720 / 1200×675 templates |
+| OG images | 1200×630 templates |
 
 ---
 
-## Social Media Design Workflow
+## The 5-Layer Theme Architecture
+
+Every design needs a custom theme. No defaults. No presets.
+
+```
+Layer 5: PERSONALITY   ← What makes it UNIQUE? (MOST IMPORTANT)
+Layer 4: Effects       ← Shadows, transitions, easings
+Layer 3: Typography    ← Font stack + type scale
+Layer 2: Colors        ← Semantic token system
+Layer 1: Foundation    ← Spacing scale, radii
+```
+
+**Layer 5 is mandatory.** If you can't articulate what makes this design memorable, start over.
+
+---
+
+## Social Media Design
 
 For Instagram, TikTok, LinkedIn, Twitter/X, YouTube:
 
-### Step 1: Choose Format
-| Content Type | Best Format |
-|--------------|-------------|
-| Stories, Reels, TikTok | **9:16** (1080×1920) |
-| Instagram Feed | **4:5** (1080×1350) or **1:1** (1080×1080) |
-| LinkedIn Post | **1:1** (1080×1080) or **16:9** (1200×675) |
-| Twitter/X | **16:9** (1200×675) |
-| YouTube Thumbnail | **16:9** (1280×720) |
-| Carousel | **1:1** (1080×1080) per slide |
+| Content Type | Format | Size |
+|--------------|--------|------|
+| Stories, Reels, TikTok | 9:16 | 1080×1920 |
+| Instagram Feed | 4:5 or 1:1 | 1080×1350 or 1080×1080 |
+| LinkedIn/Twitter | 16:9 | 1200×675 |
+| YouTube Thumbnail | 16:9 | 1280×720 |
+| Carousel | 1:1 | 1080×1080 per slide |
 
-### Step 2: Apply Template
-Go to `references/social-media.md` and:
-1. Pick template for your format
-2. Customize colors, fonts, content
-3. Respect safe zones (especially for Stories!)
-
-### Step 3: Key Principles
-- **3-second rule**: Hook attention immediately
-- **Less text = more impact** (especially 9:16)
-- **High contrast**: Must be readable on mobile
-- **Brand consistency**: Same fonts, colors across posts
-- **Platform-native**: Each platform has different vibes
+**Key Principles:**
+- 3-second hook rule
+- Less text = more impact
+- High contrast for mobile
+- Respect safe zones (especially Stories!)
 
 ---
 
-## Core Principles
+## The 5 Aesthetic Pillars
 
-### The 5 Aesthetic Pillars
+### 1. Typography
+- Use fonts from `assets/fonts/` - all curated for distinction
+- **BLACKLIST:** Inter, Roboto, Arial, Open Sans, Lato, Montserrat, Poppins
+- Pair: Display (headlines) + Body (content) + Mono (code)
 
-1. **Typography**
-   - Use fonts from `assets/fonts/` - all curated for distinction
-   - NEVER: Inter, Roboto, Arial, Open Sans, Lato, Montserrat, Poppins
-   - Pair: Display font (headlines) + Body font (content) + Mono (code)
+### 2. Color
+- Build semantic tokens, not arbitrary colors
+- Dominant + sharp accent > evenly distributed palette
+- Commit fully to light OR dark
 
-2. **Color**
-   - Build semantic tokens, not random colors
-   - Dominant + sharp accent > evenly distributed palette
-   - Commit to light OR dark, don't hedge
+### 3. Motion
+- One orchestrated page load > scattered micro-interactions
+- Staggered reveals with `animation-delay`
+- Surprising hover states
 
-3. **Motion**
-   - One orchestrated page load > scattered micro-interactions
-   - Staggered reveals with `animation-delay`
-   - Surprising hover states
-   - See `references/motion-library.md` for ready-to-use patterns
+### 4. Spatial Composition
+- Asymmetry, overlap, grid-breaking
+- Generous whitespace OR controlled density
+- NEVER: everything centered with equal margins
 
-4. **Spatial Composition**
-   - Asymmetry, overlap, grid-breaking
-   - Generous whitespace OR controlled density
-   - Never: everything centered, equal margins everywhere
+### 5. Visual Details
+- Textures, gradients, grain, shadows create depth
+- NEVER: flat solid colors as only background
+- Context-appropriate effects
 
-5. **Visual Details**
-   - Textures, gradients, grain, shadows create depth
-   - Never: flat solid colors as only background
-   - Context-appropriate effects (brutalist ≠ organic ≠ luxury)
+---
 
-## Anti-Patterns (NEVER Do)
+## Anti-Patterns (NEVER Generate These)
 
 ```
-❌ Inter + purple gradient on white
+❌ Inter + purple gradient on white background
 ❌ Everything centered with equal spacing
-❌ Generic rounded corners everywhere
-❌ Copying scraped designs instead of extracting principles
-❌ Same aesthetic across different projects
+❌ Generic rounded corners everywhere (rounded-lg on everything)
+❌ Blue primary + gray secondary (the AI default)
 ❌ Standard Tailwind without customization
-❌ "Safe" choices that could be any website
+❌ Designs that could be mistaken for AI-generated templates
+❌ "Safe" choices that play it too conservative
 ```
 
-## Quality Checklist
+---
 
-Before delivering, verify:
-- [ ] Theme has clear personality (Layer 5)
-- [ ] Typography is distinctive, not generic
-- [ ] Color system uses semantic tokens
-- [ ] At least one memorable motion moment
-- [ ] Layout has intentional asymmetry or structure
-- [ ] Would someone recognize this design as unique?
+## Quality Gate
+
+Before delivering ANY design, verify:
+
+- [ ] **Personality**: Does it have a clear signature element?
+- [ ] **Typography**: Would a designer recognize the font choice as intentional?
+- [ ] **Color**: Is there a memorable color story?
+- [ ] **Motion**: Is there at least one delightful animation?
+- [ ] **Uniqueness**: Would someone remember this design tomorrow?
+
+**If you can't check all boxes, iterate until you can.**
+
+---
 
 ## Philosophy
 
 > "No design should be the same."
 
-Every project gets a fresh theme created for its specific context. We don't pick from templates - we build themes using principles and live inspiration.
+Every project gets a fresh theme built for its specific context. Extract principles from inspiration, never pixels. Bold maximalism and refined minimalism both work—the key is intentionality.
 
-**Bold maximalism and refined minimalism both work.** The key is intentionality, not intensity. Commit fully to your direction.
-
-Claude is capable of extraordinary creative work. Don't hold back.
+**Claude is capable of extraordinary creative work. Don't hold back. Be bold. Be distinctive. Be memorable.**
