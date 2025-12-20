@@ -26,6 +26,11 @@
       "name": "nano-banana-pro",
       "source": "./nano-banana-pro",
       "description": "AI image generation mastery with Nano Banana Pro - social media templates, infographics, and style presets"
+    },
+    {
+      "name": "dominant-guide-content",
+      "source": "./dominant-guide-content",
+      "description": "Content creation, SEO analysis, competitor monitoring, and lead magnet generation for Dominant Guide"
     }
   ]
 }
