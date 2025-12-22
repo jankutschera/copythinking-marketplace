@@ -1,0 +1,11 @@
+{
+  "name": "pods-asia-toolkit",
+  "version": "1.0.0",
+  "description": "AI-powered sales coaching toolkit for Pods Asia / Sales Bugle. Includes agents for roadmap generation, asset creation, and email sequences.",
+  "author": {
+    "name": "True Brew Birdie Ltd.",
+    "url": "https://truebrewbirdie.com"
+  },
+  "keywords": ["pods-asia", "sales-bugle", "b2b-sales", "ai-coaching", "roadmap-generator"],
+  "license": "MIT"
+}

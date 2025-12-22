@@ -31,6 +31,11 @@
       "name": "dominant-guide-content",
       "source": "./dominant-guide-content",
       "description": "Content creation, SEO analysis, competitor monitoring, and lead magnet generation for Dominant Guide"
+    },
+    {
+      "name": "pods-asia-toolkit",
+      "source": "./pods-asia-toolkit",
+      "description": "AI-powered sales coaching toolkit for Pods Asia / Sales Bugle - roadmap generation, asset creation, email sequences"
     }
   ]
 }
