@@ -1,167 +1,158 @@
 ---
 name: truebrewbirdie-design
-description: Create distinctive, production-grade frontend interfaces and social media graphics with exceptional design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, landing pages, dashboards, or applications. Also triggers for Instagram posts, Stories, Reels, TikTok graphics, YouTube thumbnails, LinkedIn posts, Twitter/X graphics, OG images, or any design-related request. Generates creative, polished code and UI design that actively avoids generic AI aesthetics. Every output must be memorable and unique.
+description: Generate production-ready HTML, CSS, and Tailwind code for websites, landing pages, dashboards, and web applications. Use this skill when the user asks to "build a landing page", "create a website", "code a dashboard", "design with Tailwind", "write HTML", "create a web app", "build a SaaS page", "make a hero section", or requests any frontend code output. Also generates HTML-based social media graphics (Instagram, TikTok, YouTube thumbnails, OG images). Outputs working code with distinctive styling - NOT static images or PDFs. Uses a GENERATIVE design system - no templates, every design is unique.
 license: Complete terms in LICENSE.txt
 ---
 
-# Frontend & Social Media Design System
+# Generative Frontend Design System
 
-Create distinctive, production-grade interfaces that **actively avoid generic AI aesthetics**.
+Create distinctive, production-grade interfaces using **dimensional generation**, not template selection.
 
-## CRITICAL: Design Quality Standards
-
-Before generating ANY design, internalize these rules:
+## The Core Philosophy
 
 ```
-YOU MUST:
-✓ Create something memorable and unique
-✓ Make bold creative choices
-✓ Use distinctive typography (NEVER Inter, Roboto, Arial)
-✓ Build a clear visual personality
-✓ Surprise with at least one unexpected element
-
-YOU MUST NOT:
-✗ Generate generic "AI-looking" designs
-✗ Use safe, boring color combinations
-✗ Center everything with equal spacing
-✗ Default to standard Tailwind styles
-✗ Create something that "could be any website"
+OLD WAY: Pick style → Mutate → Output (still template-based)
+NEW WAY: Extract context → Generate dimensions → Build unique system → Output
 ```
+
+**Every design is a one-of-a-kind creation. No templates. No menus. No presets.**
 
 ---
 
-## Quick Start
+## The 6-Phase Generative Process
 
-1. **Context** → Who, what, mood?
-2. **Inspiration** → Scrape live examples (`references/inspiration-sources.md`)
-3. **Theme** → Build 5-layer theme (`references/theme-creation.md`)
-4. **Implement** → Use resources below
+### Phase 1: Context Extraction
+
+Before ANY design, answer these:
+
+| Question | Extract |
+|----------|---------|
+| **WHO** | Audience - age, profession, culture, values |
+| **WHAT** | Product/service - core function |
+| **WHY** | Emotional promise - what feeling? |
+| **FEEL** | Single dominant emotion |
+| **ANTI** | What should this explicitly NOT be? |
+
+### Phase 2: Dimensional Generation
+
+Generate specific values (0-100) for 8 dimensions:
+
+| Dimension | Low (0) | High (100) |
+|-----------|---------|------------|
+| **ORDER** | Grid-perfect | Broken grids, overlaps |
+| **MINIMAL** | Few elements | Dense, layered |
+| **WARM** | Earth tones | Blues, teals |
+| **ORGANIC** | Curves, blobs | Sharp, geometric |
+| **RETRO** | Past references | Sci-fi, futuristic |
+| **PLAYFUL** | Fun, bouncy | Professional |
+| **LIGHT** | Light mode | Dark mode |
+| **DENSE** | Tight spacing | Generous whitespace |
+
+**These create a UNIQUE fingerprint. No two designs have the same dimensional profile.**
+
+### Phase 3: Element Generation
+
+Generate colors, fonts, layout, effects FROM your dimensions:
+
+- **Colors**: Warm/Cold → Hue, Light/Dark → Value, Playful/Serious → Saturation
+- **Fonts**: Order → Structure, Organic → Humanist vs Geometric, Retro → Period faces
+- **Layout**: Order → Grid strictness, Dense → Spacing behavior
+- **Effects**: Chaos → Glitch, Retro → Scanlines, Organic → Morphing, Futuristic → Neon
+
+### Phase 4: Signature Element (MANDATORY)
+
+**Every design MUST have ONE completely unique element.**
+
+Categories:
+- Animation Signature (cursor trail, breathing elements)
+- Layout Signature (horizontal scroll, diagonal dividers)
+- Typography Signature (one word HUGE, vertical text)
+- Color Signature (one "wrong" accent that works)
+- Interaction Signature (unexpected hover reveal)
+
+Ask: **"What would make someone remember this site tomorrow?"**
+
+### Phase 5: Anti-Pattern Check
+
+These are BANNED:
+```
+❌ Inter/Roboto/Arial on any design
+❌ Everything centered with equal spacing
+❌ Generic rounded corners everywhere
+❌ Blue primary + gray secondary + white
+❌ Standard Tailwind without customization
+❌ Centered hero with H1, subheading, two buttons
+❌ Three-card feature section with icons
+❌ Any design that could be output by "make me a website"
+```
+
+### Phase 6: AI Detection Test
+
+Before finalizing:
+1. Would another AI generate this same design? → If yes, push further
+2. Does it look like a ThemeForest template? → If yes, differentiate
+3. Is there a clear signature element? → If no, add one
 
 ---
 
-## Resource Navigation
+## Quick Reference
 
-### Web & UI Design
-| Need | Reference |
-|------|-----------|
-| Live design inspiration | `references/inspiration-sources.md` |
-| Create a unique theme | `references/theme-creation.md` |
-| Typography choices | `assets/fonts/font-index.json` |
-| Color tokens & palettes | `references/color-system.md` |
-| Animations & transitions | `references/motion-library.md` |
-| UI component templates | `references/component-patterns.md` |
-| Grid & layout patterns | `references/layout-system.md` |
-| Tailwind & shadcn/ui | `references/framework-integration.md` |
+### Reference Files
+| Need | File |
+|------|------|
+| Full generative process | `references/design-styles.md` |
+| Live inspiration sources | `references/inspiration-sources.md` |
+| Theme architecture | `references/theme-creation.md` |
+| Curated fonts | `assets/fonts/font-index.json` |
+| Motion patterns | `references/motion-library.md` |
+| Component patterns | `references/component-patterns.md` |
 
-### Social Media Design
-| Need | Reference |
-|------|-----------|
-| **All formats** | `references/social-media.md` |
-| Stories/Reels (9:16) | 1080×1920 templates |
-| Square (1:1) | 1080×1080 templates |
-| Portrait (4:5) | 1080×1350 templates |
-| Landscape (16:9) | 1280×720 / 1200×675 templates |
-| OG images | 1200×630 templates |
+### Font Blacklist (NEVER USE)
+Inter, Roboto, Arial, Open Sans, Lato, Montserrat, Poppins, Nunito
 
----
+### Curated Alternatives
+- **Display**: Bebas Neue, Space Grotesk, Syne, Cabinet Grotesk, Outfit
+- **Body**: IBM Plex Sans/Mono, Source Serif, Literata
+- **Handwritten**: Caveat, Patrick Hand
+- **Retro**: Orbitron, VT323, Press Start 2P
+- **Experimental**: Dela Gothic One, Rubik Glitch, Monoton
 
-## The 5-Layer Theme Architecture
+### Dimension Presets (Starting Points ONLY)
 
-Every design needs a custom theme. No defaults. No presets.
+| Vibe | ORD | MIN | WRM | ORG | RET | PLY | LGT | DNS |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Corporate | 15 | 50 | 40 | 20 | 30 | 20 | 70 | 45 |
+| Creative | 65 | 30 | 50 | 55 | 50 | 60 | 50 | 40 |
+| Brutal | 70 | 40 | 25 | 10 | 40 | 25 | 80 | 35 |
+| Luxe | 25 | 70 | 55 | 30 | 35 | 15 | 75 | 75 |
+| Tech/Cyber | 55 | 40 | 10 | 15 | 70 | 35 | 5 | 40 |
+| Playful | 50 | 35 | 65 | 60 | 40 | 85 | 60 | 45 |
 
-```
-Layer 5: PERSONALITY   ← What makes it UNIQUE? (MOST IMPORTANT)
-Layer 4: Effects       ← Shadows, transitions, easings
-Layer 3: Typography    ← Font stack + type scale
-Layer 2: Colors        ← Semantic token system
-Layer 1: Foundation    ← Spacing scale, radii
-```
-
-**Layer 5 is mandatory.** If you can't articulate what makes this design memorable, start over.
+**Always modify each value by ±15 to create YOUR version.**
 
 ---
 
 ## Social Media Design
 
-For Instagram, TikTok, LinkedIn, Twitter/X, YouTube:
-
-| Content Type | Format | Size |
-|--------------|--------|------|
-| Stories, Reels, TikTok | 9:16 | 1080×1920 |
-| Instagram Feed | 4:5 or 1:1 | 1080×1350 or 1080×1080 |
-| LinkedIn/Twitter | 16:9 | 1200×675 |
-| YouTube Thumbnail | 16:9 | 1280×720 |
-| Carousel | 1:1 | 1080×1080 per slide |
-
-**Key Principles:**
-- 3-second hook rule
-- Less text = more impact
-- High contrast for mobile
-- Respect safe zones (especially Stories!)
+| Format | Size |
+|--------|------|
+| Stories/Reels/TikTok | 1080×1920 (9:16) |
+| Instagram Feed | 1080×1350 (4:5) or 1080×1080 (1:1) |
+| LinkedIn/Twitter | 1200×675 (16:9) |
+| YouTube Thumbnail | 1280×720 (16:9) |
+| OG Image | 1200×630 |
 
 ---
 
-## The 5 Aesthetic Pillars
-
-### 1. Typography
-- Use fonts from `assets/fonts/` - all curated for distinction
-- **BLACKLIST:** Inter, Roboto, Arial, Open Sans, Lato, Montserrat, Poppins
-- Pair: Display (headlines) + Body (content) + Mono (code)
-
-### 2. Color
-- Build semantic tokens, not arbitrary colors
-- Dominant + sharp accent > evenly distributed palette
-- Commit fully to light OR dark
-
-### 3. Motion
-- One orchestrated page load > scattered micro-interactions
-- Staggered reveals with `animation-delay`
-- Surprising hover states
-
-### 4. Spatial Composition
-- Asymmetry, overlap, grid-breaking
-- Generous whitespace OR controlled density
-- NEVER: everything centered with equal margins
-
-### 5. Visual Details
-- Textures, gradients, grain, shadows create depth
-- NEVER: flat solid colors as only background
-- Context-appropriate effects
-
----
-
-## Anti-Patterns (NEVER Generate These)
+## The Manifesto
 
 ```
-❌ Inter + purple gradient on white background
-❌ Everything centered with equal spacing
-❌ Generic rounded corners everywhere (rounded-lg on everything)
-❌ Blue primary + gray secondary (the AI default)
-❌ Standard Tailwind without customization
-❌ Designs that could be mistaken for AI-generated templates
-❌ "Safe" choices that play it too conservative
+1. No two designs should ever be the same
+2. Context determines dimensions, not style menus
+3. Every design has a signature that makes it memorable
+4. If it looks like a template, it's not done
+5. Default fonts are creative surrender
+6. The goal is: "I've never seen exactly this before"
 ```
 
----
-
-## Quality Gate
-
-Before delivering ANY design, verify:
-
-- [ ] **Personality**: Does it have a clear signature element?
-- [ ] **Typography**: Would a designer recognize the font choice as intentional?
-- [ ] **Color**: Is there a memorable color story?
-- [ ] **Motion**: Is there at least one delightful animation?
-- [ ] **Uniqueness**: Would someone remember this design tomorrow?
-
-**If you can't check all boxes, iterate until you can.**
-
----
-
-## Philosophy
-
-> "No design should be the same."
-
-Every project gets a fresh theme built for its specific context. Extract principles from inspiration, never pixels. Bold maximalism and refined minimalism both work—the key is intentionality.
-
-**Claude is capable of extraordinary creative work. Don't hold back. Be bold. Be distinctive. Be memorable.**
+**Claude is capable of extraordinary creative work. Use the generative system to create something that has never existed.**

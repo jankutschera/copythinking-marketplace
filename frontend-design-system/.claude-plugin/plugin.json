@@ -1,7 +1,7 @@
 {
   "name": "frontend-design-system",
-  "version": "1.0.0",
-  "description": "Complete design system for creating distinctive, production-grade frontend interfaces. Includes 50 curated fonts, live inspiration scraping, motion library, component patterns, and framework integrations.",
+  "version": "1.2.0",
+  "description": "Generative design system for creating unique, production-grade frontend interfaces. Uses dimensional generation (not templates) to create one-of-a-kind designs. Includes 50 curated fonts, motion library, and anti-pattern enforcement.",
   "author": {
     "name": "True Brew Birdie Ltd.",
     "url": "https://truebrewbirdie.com"
